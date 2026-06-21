@@ -1,0 +1,38 @@
+[
+  {
+    "proportion": 0.1,
+    "n_words": 1700520,
+    "n_sentences": 1701,
+    "vocab_size": 19461,
+    "train_time": 3.1,
+    "similarity_correlation": 0.4245,
+    "analogy_accuracy": 0.0921
+  },
+  {
+    "proportion": 0.3,
+    "n_words": 5101562,
+    "n_sentences": 5102,
+    "vocab_size": 36773,
+    "train_time": 9.9,
+    "similarity_correlation": 0.579,
+    "analogy_accuracy": 0.2338
+  },
+  {
+    "proportion": 0.5,
+    "n_words": 8502603,
+    "n_sentences": 8503,
+    "vocab_size": 48792,
+    "train_time": 17.5,
+    "similarity_correlation": 0.5449,
+    "analogy_accuracy": 0.2987
+  },
+  {
+    "proportion": 1.0,
+    "n_words": 17005207,
+    "n_sentences": 17006,
+    "vocab_size": 71290,
+    "train_time": 36.8,
+    "similarity_correlation": 0.5179,
+    "analogy_accuracy": 0.2987
+  }
+]

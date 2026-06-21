@@ -1,0 +1,3056 @@
+{
+  "NumPy": {
+    "vocab_size": 36280,
+    "embedding_dim": 100,
+    "similarity_correlation": 0.4273291436275664,
+    "analogy_accuracy": 0.19480519480519481,
+    "analogy_results": [
+      {
+        "analogy": "paris - france + germany = berlin",
+        "predicted": "moscow",
+        "similarity": 0.6273460429986136,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + japan = tokyo",
+        "predicted": "tokyo",
+        "similarity": 0.557666174143226,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + china = beijing",
+        "predicted": "beijing",
+        "similarity": 0.5651296474108415,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + russia = moscow",
+        "predicted": "moscow",
+        "similarity": 0.597297345184239,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + spain = madrid",
+        "predicted": "clermont",
+        "similarity": 0.6114662543838382,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + italy = rome",
+        "predicted": "vienna",
+        "similarity": 0.6360627610643291,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + england = london",
+        "predicted": "cooperstown",
+        "similarity": 0.599370636227591,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + brazil = brasilia",
+        "predicted": "tourism",
+        "similarity": 0.5749093003801264,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + australia = canberra",
+        "predicted": "london",
+        "similarity": 0.5450860744930262,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + egypt = cairo",
+        "predicted": "medina",
+        "similarity": 0.5952261173459341,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + india = delhi",
+        "predicted": "calcutta",
+        "similarity": 0.6139231742918132,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + mexico = mexico",
+        "predicted": "nebraska",
+        "similarity": 0.6325471902850471,
+        "correct": false
+      },
+      {
+        "analogy": "king - man + woman = queen",
+        "predicted": "agis",
+        "similarity": 0.6347625662643118,
+        "correct": false
+      },
+      {
+        "analogy": "king - prince + princess = queen",
+        "predicted": "son",
+        "similarity": 0.6362820842363789,
+        "correct": false
+      },
+      {
+        "analogy": "prince - boy + girl = princess",
+        "predicted": "princess",
+        "similarity": 0.6238640562104188,
+        "correct": true
+      },
+      {
+        "analogy": "king - husband + wife = queen",
+        "predicted": "conqueror",
+        "similarity": 0.6435519654620682,
+        "correct": false
+      },
+      {
+        "analogy": "brother - son + daughter = sister",
+        "predicted": "beatrix",
+        "similarity": 0.6396998839118454,
+        "correct": false
+      },
+      {
+        "analogy": "walking - walk + run = running",
+        "predicted": "running",
+        "similarity": 0.5577743226579429,
+        "correct": true
+      },
+      {
+        "analogy": "swimming - swim + walk = walking",
+        "predicted": "bend",
+        "similarity": 0.6332381655664535,
+        "correct": false
+      },
+      {
+        "analogy": "eating - eat + drink = drinking",
+        "predicted": "seed",
+        "similarity": 0.6363056699257569,
+        "correct": false
+      },
+      {
+        "analogy": "playing - play + work = working",
+        "predicted": "seminal",
+        "similarity": 0.630363621818171,
+        "correct": false
+      },
+      {
+        "analogy": "singing - sing + dance = dancing",
+        "predicted": "music",
+        "similarity": 0.67497897973681,
+        "correct": false
+      },
+      {
+        "analogy": "writing - write + read = reading",
+        "predicted": "written",
+        "similarity": 0.5714853477557623,
+        "correct": false
+      },
+      {
+        "analogy": "going - go + come = coming",
+        "predicted": "gone",
+        "similarity": 0.6004926486361771,
+        "correct": false
+      },
+      {
+        "analogy": "taking - take + give = giving",
+        "predicted": "giving",
+        "similarity": 0.5451450920780485,
+        "correct": true
+      },
+      {
+        "analogy": "bigger - big + small = smaller",
+        "predicted": "large",
+        "similarity": 0.5973110793442601,
+        "correct": false
+      },
+      {
+        "analogy": "better - good + bad = worse",
+        "predicted": "behaved",
+        "similarity": 0.5611293618992776,
+        "correct": false
+      },
+      {
+        "analogy": "faster - fast + slow = slower",
+        "predicted": "slower",
+        "similarity": 0.6449937064984906,
+        "correct": true
+      },
+      {
+        "analogy": "stronger - strong + weak = weaker",
+        "predicted": "weaker",
+        "similarity": 0.6541094238657669,
+        "correct": true
+      },
+      {
+        "analogy": "longer - long + short = shorter",
+        "predicted": "shorter",
+        "similarity": 0.5050695331188229,
+        "correct": true
+      },
+      {
+        "analogy": "older - old + young = younger",
+        "predicted": "younger",
+        "similarity": 0.5776439576350134,
+        "correct": true
+      },
+      {
+        "analogy": "hot - cold + big = small",
+        "predicted": "jam",
+        "similarity": 0.5698205098222258,
+        "correct": false
+      },
+      {
+        "analogy": "good - bad + big = small",
+        "predicted": "vip",
+        "similarity": 0.5702356536549787,
+        "correct": false
+      },
+      {
+        "analogy": "happy - sad + fast = slow",
+        "predicted": "loud",
+        "similarity": 0.6124771941513883,
+        "correct": false
+      },
+      {
+        "analogy": "up - down + left = right",
+        "predicted": "right",
+        "similarity": 0.5824592937791414,
+        "correct": true
+      },
+      {
+        "analogy": "man - woman + boy = girl",
+        "predicted": "famicom",
+        "similarity": 0.6006017560864916,
+        "correct": false
+      },
+      {
+        "analogy": "day - night + morning = evening",
+        "predicted": "saints",
+        "similarity": 0.5843803390947107,
+        "correct": false
+      },
+      {
+        "analogy": "love - hate + friend = enemy",
+        "predicted": "aunt",
+        "similarity": 0.6833052783648881,
+        "correct": false
+      },
+      {
+        "analogy": "rich - poor + healthy = sick",
+        "predicted": "aquatic",
+        "similarity": 0.6469163356041656,
+        "correct": false
+      },
+      {
+        "analogy": "open - closed + start = stop",
+        "predicted": "aim",
+        "similarity": 0.5229643456461505,
+        "correct": false
+      },
+      {
+        "analogy": "english - england + france = french",
+        "predicted": "french",
+        "similarity": 0.6513927050116378,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + germany = german",
+        "predicted": "czech",
+        "similarity": 0.5664451736928308,
+        "correct": false
+      },
+      {
+        "analogy": "english - england + spain = spanish",
+        "predicted": "spanish",
+        "similarity": 0.7008887190432974,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + china = chinese",
+        "predicted": "chinese",
+        "similarity": 0.604403832217825,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + japan = japanese",
+        "predicted": "japanese",
+        "similarity": 0.5885641305758559,
+        "correct": true
+      },
+      {
+        "analogy": "dollar - america + japan = yen",
+        "predicted": "pegged",
+        "similarity": 0.5759884879746877,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + china = yuan",
+        "predicted": "pegged",
+        "similarity": 0.5906178378190031,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + europe = euro",
+        "predicted": "peso",
+        "similarity": 0.5927038750500621,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + england = pound",
+        "predicted": "queen",
+        "similarity": 0.563764711473998,
+        "correct": false
+      },
+      {
+        "analogy": "cpu - computer + engine = car",
+        "predicted": "engines",
+        "similarity": 0.7075484257255404,
+        "correct": false
+      },
+      {
+        "analogy": "wheel - car + wing = airplane",
+        "predicted": "right",
+        "similarity": 0.5812108612927799,
+        "correct": false
+      },
+      {
+        "analogy": "keyboard - computer + screen = television",
+        "predicted": "finger",
+        "similarity": 0.6392547498531214,
+        "correct": false
+      },
+      {
+        "analogy": "finger - hand + toe = foot",
+        "predicted": "spiral",
+        "similarity": 0.6114127647149121,
+        "correct": false
+      },
+      {
+        "analogy": "door - house + window = room",
+        "predicted": "boot",
+        "similarity": 0.6079670868718908,
+        "correct": false
+      },
+      {
+        "analogy": "page - book + scene = movie",
+        "predicted": "fansite",
+        "similarity": 0.5468483112694468,
+        "correct": false
+      },
+      {
+        "analogy": "leaf - tree + petal = flower",
+        "predicted": "hops",
+        "similarity": 0.5538184461878445,
+        "correct": false
+      },
+      {
+        "analogy": "doctor - hospital + teacher = school",
+        "predicted": "humour",
+        "similarity": 0.5836087177180328,
+        "correct": false
+      },
+      {
+        "analogy": "chef - kitchen + pilot = cockpit",
+        "predicted": "cernan",
+        "similarity": 0.6659042178402883,
+        "correct": false
+      },
+      {
+        "analogy": "judge - court + priest = church",
+        "predicted": "doctor",
+        "similarity": 0.5946741799131995,
+        "correct": false
+      },
+      {
+        "analogy": "soldier - army + sailor = navy",
+        "predicted": "surfer",
+        "similarity": 0.6150294310427528,
+        "correct": false
+      },
+      {
+        "analogy": "actor - stage + player = field",
+        "predicted": "athlete",
+        "similarity": 0.7103687355799452,
+        "correct": false
+      },
+      {
+        "analogy": "librarian - library + banker = bank",
+        "predicted": "lopez",
+        "similarity": 0.6091272263757302,
+        "correct": false
+      },
+      {
+        "analogy": "atom - molecule + cell = organism",
+        "predicted": "programmed",
+        "similarity": 0.6234863330730268,
+        "correct": false
+      },
+      {
+        "analogy": "physics - einstein + biology = darwin",
+        "predicted": "genomics",
+        "similarity": 0.7203369421536155,
+        "correct": false
+      },
+      {
+        "analogy": "sun - solar + earth = lunar",
+        "predicted": "planet",
+        "similarity": 0.525331456375981,
+        "correct": false
+      },
+      {
+        "analogy": "hydrogen - water + carbon = diamond",
+        "predicted": "methane",
+        "similarity": 0.7076833119796848,
+        "correct": false
+      },
+      {
+        "analogy": "went - go + ate = eat",
+        "predicted": "had",
+        "similarity": 0.6086052798531963,
+        "correct": false
+      },
+      {
+        "analogy": "saw - see + heard = hear",
+        "predicted": "arrived",
+        "similarity": 0.5739560732227217,
+        "correct": false
+      },
+      {
+        "analogy": "spoke - speak + wrote = write",
+        "predicted": "writes",
+        "similarity": 0.6227694235629612,
+        "correct": false
+      },
+      {
+        "analogy": "drove - drive + flew = fly",
+        "predicted": "landed",
+        "similarity": 0.6492748855051248,
+        "correct": false
+      },
+      {
+        "analogy": "bought - buy + sold = sell",
+        "predicted": "purchased",
+        "similarity": 0.6719685976919243,
+        "correct": false
+      },
+      {
+        "analogy": "taught - teach + learned = learn",
+        "predicted": "studied",
+        "similarity": 0.6660596280322566,
+        "correct": false
+      },
+      {
+        "analogy": "bank - money + river = water",
+        "predicted": "waterway",
+        "similarity": 0.6725156303459335,
+        "correct": false
+      },
+      {
+        "analogy": "bat - baseball + bird = wing",
+        "predicted": "leopard",
+        "similarity": 0.5602863768426114,
+        "correct": false
+      },
+      {
+        "analogy": "mouse - computer + rat = animal",
+        "predicted": "shark",
+        "similarity": 0.6931019349920485,
+        "correct": false
+      },
+      {
+        "analogy": "light - sun + heavy = stone",
+        "predicted": "armoured",
+        "similarity": 0.5535378348502461,
+        "correct": false
+      },
+      {
+        "analogy": "play - theater + game = sport",
+        "predicted": "craps",
+        "similarity": 0.6555105665139663,
+        "correct": false
+      }
+    ],
+    "similarity_results": [
+      {
+        "pair": [
+          "king",
+          "queen"
+        ],
+        "human_score": 8.17,
+        "model_score": 0.5548257807463866
+      },
+      {
+        "pair": [
+          "king",
+          "rook"
+        ],
+        "human_score": 5.92,
+        "model_score": 0.4077685525382346
+      },
+      {
+        "pair": [
+          "king",
+          "crown"
+        ],
+        "human_score": 7.1,
+        "model_score": 0.4959171990341921
+      },
+      {
+        "pair": [
+          "queen",
+          "princess"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.6410166979138407
+      },
+      {
+        "pair": [
+          "brother",
+          "sister"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.5719980466291112
+      },
+      {
+        "pair": [
+          "father",
+          "mother"
+        ],
+        "human_score": 8.0,
+        "model_score": 0.7979204125849827
+      },
+      {
+        "pair": [
+          "husband",
+          "wife"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.7741568237271713
+      },
+      {
+        "pair": [
+          "boy",
+          "girl"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.7136260988890821
+      },
+      {
+        "pair": [
+          "man",
+          "woman"
+        ],
+        "human_score": 7.83,
+        "model_score": 0.7090680458171404
+      },
+      {
+        "pair": [
+          "dog",
+          "cat"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.5628675499311846
+      },
+      {
+        "pair": [
+          "dog",
+          "animal"
+        ],
+        "human_score": 6.58,
+        "model_score": 0.3876401754427303
+      },
+      {
+        "pair": [
+          "cat",
+          "animal"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.4004512685207022
+      },
+      {
+        "pair": [
+          "bird",
+          "eagle"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.4885408768795152
+      },
+      {
+        "pair": [
+          "horse",
+          "mare"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.36220275197768487
+      },
+      {
+        "pair": [
+          "computer",
+          "keyboard"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.5482903758710913
+      },
+      {
+        "pair": [
+          "computer",
+          "software"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.6357289992342865
+      },
+      {
+        "pair": [
+          "computer",
+          "hardware"
+        ],
+        "human_score": 7.08,
+        "model_score": 0.6972911881100928
+      },
+      {
+        "pair": [
+          "computer",
+          "laptop"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.7286869369058073
+      },
+      {
+        "pair": [
+          "software",
+          "program"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.5359538464840607
+      },
+      {
+        "pair": [
+          "phone",
+          "device"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.6384312198032488
+      },
+      {
+        "pair": [
+          "university",
+          "college"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.7124814503509084
+      },
+      {
+        "pair": [
+          "university",
+          "professor"
+        ],
+        "human_score": 6.08,
+        "model_score": 0.6691472066708656
+      },
+      {
+        "pair": [
+          "student",
+          "professor"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.5818049943466133
+      },
+      {
+        "pair": [
+          "school",
+          "college"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.6682338403001288
+      },
+      {
+        "pair": [
+          "teacher",
+          "student"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.6689361437717802
+      },
+      {
+        "pair": [
+          "country",
+          "state"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.3833325251406664
+      },
+      {
+        "pair": [
+          "city",
+          "town"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.7613423990375418
+      },
+      {
+        "pair": [
+          "river",
+          "lake"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.7240859159368633
+      },
+      {
+        "pair": [
+          "mountain",
+          "hill"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.4751440311169378
+      },
+      {
+        "pair": [
+          "ocean",
+          "sea"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.6107446644698395
+      },
+      {
+        "pair": [
+          "food",
+          "fruit"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.7055334220638725
+      },
+      {
+        "pair": [
+          "bread",
+          "butter"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.5906035803609576
+      },
+      {
+        "pair": [
+          "car",
+          "engine"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.565202062861456
+      },
+      {
+        "pair": [
+          "airplane",
+          "airport"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.5229131158483389
+      },
+      {
+        "pair": [
+          "football",
+          "soccer"
+        ],
+        "human_score": 9.0,
+        "model_score": 0.7661527421657613
+      }
+    ]
+  },
+  "PyTorch": {
+    "vocab_size": 36280,
+    "embedding_dim": 100,
+    "similarity_correlation": 0.459908953460493,
+    "analogy_accuracy": 0.2077922077922078,
+    "analogy_results": [
+      {
+        "analogy": "paris - france + germany = berlin",
+        "predicted": "berlin",
+        "similarity": 0.5840620398521423,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + japan = tokyo",
+        "predicted": "tokyo",
+        "similarity": 0.5270795226097107,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + china = beijing",
+        "predicted": "peking",
+        "similarity": 0.5385453104972839,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + russia = moscow",
+        "predicted": "romania",
+        "similarity": 0.5056615471839905,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + spain = madrid",
+        "predicted": "havana",
+        "similarity": 0.542328953742981,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + italy = rome",
+        "predicted": "sax",
+        "similarity": 0.5381375551223755,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + england = london",
+        "predicted": "london",
+        "similarity": 0.56699138879776,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + brazil = brasilia",
+        "predicted": "rica",
+        "similarity": 0.568267285823822,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + australia = canberra",
+        "predicted": "tasmania",
+        "similarity": 0.5224271416664124,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + egypt = cairo",
+        "predicted": "jerusalem",
+        "similarity": 0.5366883873939514,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + india = delhi",
+        "predicted": "aziz",
+        "similarity": 0.46471157670021057,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + mexico = mexico",
+        "predicted": "illinois",
+        "similarity": 0.4919845461845398,
+        "correct": false
+      },
+      {
+        "analogy": "king - man + woman = queen",
+        "predicted": "queen",
+        "similarity": 0.6327307224273682,
+        "correct": true
+      },
+      {
+        "analogy": "king - prince + princess = queen",
+        "predicted": "viii",
+        "similarity": 0.5611878633499146,
+        "correct": false
+      },
+      {
+        "analogy": "prince - boy + girl = princess",
+        "predicted": "maria",
+        "similarity": 0.5824344158172607,
+        "correct": false
+      },
+      {
+        "analogy": "king - husband + wife = queen",
+        "predicted": "judah",
+        "similarity": 0.5519542694091797,
+        "correct": false
+      },
+      {
+        "analogy": "brother - son + daughter = sister",
+        "predicted": "gertrude",
+        "similarity": 0.6010849475860596,
+        "correct": false
+      },
+      {
+        "analogy": "walking - walk + run = running",
+        "predicted": "chlorine",
+        "similarity": 0.428412526845932,
+        "correct": false
+      },
+      {
+        "analogy": "swimming - swim + walk = walking",
+        "predicted": "throwing",
+        "similarity": 0.47704657912254333,
+        "correct": false
+      },
+      {
+        "analogy": "eating - eat + drink = drinking",
+        "predicted": "drinking",
+        "similarity": 0.5595420002937317,
+        "correct": true
+      },
+      {
+        "analogy": "playing - play + work = working",
+        "predicted": "works",
+        "similarity": 0.49916568398475647,
+        "correct": false
+      },
+      {
+        "analogy": "singing - sing + dance = dancing",
+        "predicted": "music",
+        "similarity": 0.5610768795013428,
+        "correct": false
+      },
+      {
+        "analogy": "writing - write + read = reading",
+        "predicted": "presented",
+        "similarity": 0.5355587601661682,
+        "correct": false
+      },
+      {
+        "analogy": "going - go + come = coming",
+        "predicted": "gone",
+        "similarity": 0.4765562415122986,
+        "correct": false
+      },
+      {
+        "analogy": "taking - take + give = giving",
+        "predicted": "giving",
+        "similarity": 0.5416253805160522,
+        "correct": true
+      },
+      {
+        "analogy": "bigger - big + small = smaller",
+        "predicted": "larger",
+        "similarity": 0.5871870517730713,
+        "correct": false
+      },
+      {
+        "analogy": "better - good + bad = worse",
+        "predicted": "harder",
+        "similarity": 0.44903895258903503,
+        "correct": false
+      },
+      {
+        "analogy": "faster - fast + slow = slower",
+        "predicted": "slower",
+        "similarity": 0.5748997330665588,
+        "correct": true
+      },
+      {
+        "analogy": "stronger - strong + weak = weaker",
+        "predicted": "ions",
+        "similarity": 0.5572227835655212,
+        "correct": false
+      },
+      {
+        "analogy": "longer - long + short = shorter",
+        "predicted": "shorter",
+        "similarity": 0.5154018402099609,
+        "correct": true
+      },
+      {
+        "analogy": "older - old + young = younger",
+        "predicted": "younger",
+        "similarity": 0.4464488625526428,
+        "correct": true
+      },
+      {
+        "analogy": "hot - cold + big = small",
+        "predicted": "vip",
+        "similarity": 0.5413252115249634,
+        "correct": false
+      },
+      {
+        "analogy": "good - bad + big = small",
+        "predicted": "bang",
+        "similarity": 0.4235970377922058,
+        "correct": false
+      },
+      {
+        "analogy": "happy - sad + fast = slow",
+        "predicted": "cheaply",
+        "similarity": 0.4392277002334595,
+        "correct": false
+      },
+      {
+        "analogy": "up - down + left = right",
+        "predicted": "right",
+        "similarity": 0.47774818539619446,
+        "correct": true
+      },
+      {
+        "analogy": "man - woman + boy = girl",
+        "predicted": "playstation",
+        "similarity": 0.4681606590747833,
+        "correct": false
+      },
+      {
+        "analogy": "day - night + morning = evening",
+        "predicted": "saints",
+        "similarity": 0.4644121527671814,
+        "correct": false
+      },
+      {
+        "analogy": "love - hate + friend = enemy",
+        "predicted": "uncle",
+        "similarity": 0.5361185073852539,
+        "correct": false
+      },
+      {
+        "analogy": "rich - poor + healthy = sick",
+        "predicted": "fungi",
+        "similarity": 0.5452762842178345,
+        "correct": false
+      },
+      {
+        "analogy": "open - closed + start = stop",
+        "predicted": "end",
+        "similarity": 0.46300601959228516,
+        "correct": false
+      },
+      {
+        "analogy": "english - england + france = french",
+        "predicted": "french",
+        "similarity": 0.742383599281311,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + germany = german",
+        "predicted": "german",
+        "similarity": 0.5955241918563843,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + spain = spanish",
+        "predicted": "spanish",
+        "similarity": 0.6563473343849182,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + china = chinese",
+        "predicted": "chinese",
+        "similarity": 0.631043553352356,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + japan = japanese",
+        "predicted": "japanese",
+        "similarity": 0.6062082648277283,
+        "correct": true
+      },
+      {
+        "analogy": "dollar - america + japan = yen",
+        "predicted": "peso",
+        "similarity": 0.5515070557594299,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + china = yuan",
+        "predicted": "peso",
+        "similarity": 0.5374316573143005,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + europe = euro",
+        "predicted": "peso",
+        "similarity": 0.5443875789642334,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + england = pound",
+        "predicted": "pound",
+        "similarity": 0.4994712471961975,
+        "correct": true
+      },
+      {
+        "analogy": "cpu - computer + engine = car",
+        "predicted": "engines",
+        "similarity": 0.6412417888641357,
+        "correct": false
+      },
+      {
+        "analogy": "wheel - car + wing = airplane",
+        "predicted": "rotate",
+        "similarity": 0.5820541381835938,
+        "correct": false
+      },
+      {
+        "analogy": "keyboard - computer + screen = television",
+        "predicted": "scrolling",
+        "similarity": 0.5523094534873962,
+        "correct": false
+      },
+      {
+        "analogy": "finger - hand + toe = foot",
+        "predicted": "neck",
+        "similarity": 0.5645906925201416,
+        "correct": false
+      },
+      {
+        "analogy": "door - house + window = room",
+        "predicted": "lights",
+        "similarity": 0.5634599328041077,
+        "correct": false
+      },
+      {
+        "analogy": "page - book + scene = movie",
+        "predicted": "showing",
+        "similarity": 0.4587061107158661,
+        "correct": false
+      },
+      {
+        "analogy": "leaf - tree + petal = flower",
+        "predicted": "fibre",
+        "similarity": 0.6062577366828918,
+        "correct": false
+      },
+      {
+        "analogy": "doctor - hospital + teacher = school",
+        "predicted": "wit",
+        "similarity": 0.506036102771759,
+        "correct": false
+      },
+      {
+        "analogy": "chef - kitchen + pilot = cockpit",
+        "predicted": "armstrong",
+        "similarity": 0.5226395130157471,
+        "correct": false
+      },
+      {
+        "analogy": "judge - court + priest = church",
+        "predicted": "theologian",
+        "similarity": 0.559479832649231,
+        "correct": false
+      },
+      {
+        "analogy": "soldier - army + sailor = navy",
+        "predicted": "kline",
+        "similarity": 0.6073492169380188,
+        "correct": false
+      },
+      {
+        "analogy": "actor - stage + player = field",
+        "predicted": "actress",
+        "similarity": 0.7008247375488281,
+        "correct": false
+      },
+      {
+        "analogy": "librarian - library + banker = bank",
+        "predicted": "philanthropist",
+        "similarity": 0.7437366843223572,
+        "correct": false
+      },
+      {
+        "analogy": "atom - molecule + cell = organism",
+        "predicted": "battery",
+        "similarity": 0.4460616707801819,
+        "correct": false
+      },
+      {
+        "analogy": "physics - einstein + biology = darwin",
+        "predicted": "biochemistry",
+        "similarity": 0.6720390319824219,
+        "correct": false
+      },
+      {
+        "analogy": "sun - solar + earth = lunar",
+        "predicted": "moon",
+        "similarity": 0.4289367198944092,
+        "correct": false
+      },
+      {
+        "analogy": "hydrogen - water + carbon = diamond",
+        "predicted": "monoxide",
+        "similarity": 0.7111457586288452,
+        "correct": false
+      },
+      {
+        "analogy": "went - go + ate = eat",
+        "predicted": "marseilles",
+        "similarity": 0.47759371995925903,
+        "correct": false
+      },
+      {
+        "analogy": "saw - see + heard = hear",
+        "predicted": "recites",
+        "similarity": 0.517716109752655,
+        "correct": false
+      },
+      {
+        "analogy": "spoke - speak + wrote = write",
+        "predicted": "recites",
+        "similarity": 0.5354724526405334,
+        "correct": false
+      },
+      {
+        "analogy": "drove - drive + flew = fly",
+        "predicted": "landed",
+        "similarity": 0.5919056534767151,
+        "correct": false
+      },
+      {
+        "analogy": "bought - buy + sold = sell",
+        "predicted": "purchased",
+        "similarity": 0.65860915184021,
+        "correct": false
+      },
+      {
+        "analogy": "taught - teach + learned = learn",
+        "predicted": "acquainted",
+        "similarity": 0.4732370972633362,
+        "correct": false
+      },
+      {
+        "analogy": "bank - money + river = water",
+        "predicted": "basin",
+        "similarity": 0.6302823424339294,
+        "correct": false
+      },
+      {
+        "analogy": "bat - baseball + bird = wing",
+        "predicted": "giraffe",
+        "similarity": 0.552940309047699,
+        "correct": false
+      },
+      {
+        "analogy": "mouse - computer + rat = animal",
+        "predicted": "lemur",
+        "similarity": 0.6701197028160095,
+        "correct": false
+      },
+      {
+        "analogy": "light - sun + heavy = stone",
+        "predicted": "armoured",
+        "similarity": 0.49938949942588806,
+        "correct": false
+      },
+      {
+        "analogy": "play - theater + game = sport",
+        "predicted": "players",
+        "similarity": 0.5652226805686951,
+        "correct": false
+      }
+    ],
+    "similarity_results": [
+      {
+        "pair": [
+          "king",
+          "queen"
+        ],
+        "human_score": 8.17,
+        "model_score": 0.6307036876678467
+      },
+      {
+        "pair": [
+          "king",
+          "rook"
+        ],
+        "human_score": 5.92,
+        "model_score": 0.3485633432865143
+      },
+      {
+        "pair": [
+          "king",
+          "crown"
+        ],
+        "human_score": 7.1,
+        "model_score": 0.38713857531547546
+      },
+      {
+        "pair": [
+          "queen",
+          "princess"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.5604798197746277
+      },
+      {
+        "pair": [
+          "brother",
+          "sister"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.5261989831924438
+      },
+      {
+        "pair": [
+          "father",
+          "mother"
+        ],
+        "human_score": 8.0,
+        "model_score": 0.716346800327301
+      },
+      {
+        "pair": [
+          "husband",
+          "wife"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.7305443286895752
+      },
+      {
+        "pair": [
+          "boy",
+          "girl"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.561396062374115
+      },
+      {
+        "pair": [
+          "man",
+          "woman"
+        ],
+        "human_score": 7.83,
+        "model_score": 0.6905474662780762
+      },
+      {
+        "pair": [
+          "dog",
+          "cat"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.5197226405143738
+      },
+      {
+        "pair": [
+          "dog",
+          "animal"
+        ],
+        "human_score": 6.58,
+        "model_score": 0.31081423163414
+      },
+      {
+        "pair": [
+          "cat",
+          "animal"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.33347442746162415
+      },
+      {
+        "pair": [
+          "bird",
+          "eagle"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.42246562242507935
+      },
+      {
+        "pair": [
+          "horse",
+          "mare"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.1943623423576355
+      },
+      {
+        "pair": [
+          "computer",
+          "keyboard"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.44866251945495605
+      },
+      {
+        "pair": [
+          "computer",
+          "software"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.6344006061553955
+      },
+      {
+        "pair": [
+          "computer",
+          "hardware"
+        ],
+        "human_score": 7.08,
+        "model_score": 0.6300855875015259
+      },
+      {
+        "pair": [
+          "computer",
+          "laptop"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.5221899151802063
+      },
+      {
+        "pair": [
+          "software",
+          "program"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.48785677552223206
+      },
+      {
+        "pair": [
+          "phone",
+          "device"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.4061267375946045
+      },
+      {
+        "pair": [
+          "university",
+          "college"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.7004989385604858
+      },
+      {
+        "pair": [
+          "university",
+          "professor"
+        ],
+        "human_score": 6.08,
+        "model_score": 0.649066686630249
+      },
+      {
+        "pair": [
+          "student",
+          "professor"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.3723815977573395
+      },
+      {
+        "pair": [
+          "school",
+          "college"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.7075007557868958
+      },
+      {
+        "pair": [
+          "teacher",
+          "student"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.5757789611816406
+      },
+      {
+        "pair": [
+          "country",
+          "state"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.34977924823760986
+      },
+      {
+        "pair": [
+          "city",
+          "town"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.7346354126930237
+      },
+      {
+        "pair": [
+          "river",
+          "lake"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.6410439014434814
+      },
+      {
+        "pair": [
+          "mountain",
+          "hill"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.36415231227874756
+      },
+      {
+        "pair": [
+          "ocean",
+          "sea"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.5787379145622253
+      },
+      {
+        "pair": [
+          "food",
+          "fruit"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.5759678483009338
+      },
+      {
+        "pair": [
+          "bread",
+          "butter"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.41667965054512024
+      },
+      {
+        "pair": [
+          "car",
+          "engine"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.42526888847351074
+      },
+      {
+        "pair": [
+          "airplane",
+          "airport"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.4026966094970703
+      },
+      {
+        "pair": [
+          "football",
+          "soccer"
+        ],
+        "human_score": 9.0,
+        "model_score": 0.6194081902503967
+      }
+    ]
+  },
+  "Gensim": {
+    "vocab_size": 36280,
+    "embedding_dim": 100,
+    "similarity_correlation": 0.4413721651072761,
+    "analogy_accuracy": 0.2597402597402597,
+    "analogy_results": [
+      {
+        "analogy": "paris - france + germany = berlin",
+        "predicted": "munich",
+        "similarity": 0.6766716241836548,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + japan = tokyo",
+        "predicted": "tokyo",
+        "similarity": 0.6597712635993958,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + china = beijing",
+        "predicted": "beijing",
+        "similarity": 0.665745198726654,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + russia = moscow",
+        "predicted": "moscow",
+        "similarity": 0.7453776597976685,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + spain = madrid",
+        "predicted": "nuremberg",
+        "similarity": 0.7002349495887756,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + italy = rome",
+        "predicted": "bologna",
+        "similarity": 0.6822263598442078,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + england = london",
+        "predicted": "london",
+        "similarity": 0.7236377596855164,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + brazil = brasilia",
+        "predicted": "par",
+        "similarity": 0.6399997472763062,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + australia = canberra",
+        "predicted": "inaugural",
+        "similarity": 0.6390681266784668,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + egypt = cairo",
+        "predicted": "cairo",
+        "similarity": 0.7099720239639282,
+        "correct": true
+      },
+      {
+        "analogy": "paris - france + india = delhi",
+        "predicted": "bologna",
+        "similarity": 0.6563870310783386,
+        "correct": false
+      },
+      {
+        "analogy": "paris - france + mexico = mexico",
+        "predicted": "nevada",
+        "similarity": 0.6742764115333557,
+        "correct": false
+      },
+      {
+        "analogy": "king - man + woman = queen",
+        "predicted": "throne",
+        "similarity": 0.6617361307144165,
+        "correct": false
+      },
+      {
+        "analogy": "king - prince + princess = queen",
+        "predicted": "kings",
+        "similarity": 0.6912227869033813,
+        "correct": false
+      },
+      {
+        "analogy": "prince - boy + girl = princess",
+        "predicted": "princess",
+        "similarity": 0.6989117860794067,
+        "correct": true
+      },
+      {
+        "analogy": "king - husband + wife = queen",
+        "predicted": "duke",
+        "similarity": 0.6995621919631958,
+        "correct": false
+      },
+      {
+        "analogy": "brother - son + daughter = sister",
+        "predicted": "aunt",
+        "similarity": 0.6483172178268433,
+        "correct": false
+      },
+      {
+        "analogy": "walking - walk + run = running",
+        "predicted": "running",
+        "similarity": 0.6535748243331909,
+        "correct": true
+      },
+      {
+        "analogy": "swimming - swim + walk = walking",
+        "predicted": "rides",
+        "similarity": 0.6839720010757446,
+        "correct": false
+      },
+      {
+        "analogy": "eating - eat + drink = drinking",
+        "predicted": "milk",
+        "similarity": 0.6873272061347961,
+        "correct": false
+      },
+      {
+        "analogy": "playing - play + work = working",
+        "predicted": "unpublished",
+        "similarity": 0.6394608616828918,
+        "correct": false
+      },
+      {
+        "analogy": "singing - sing + dance = dancing",
+        "predicted": "folk",
+        "similarity": 0.7263915538787842,
+        "correct": false
+      },
+      {
+        "analogy": "writing - write + read = reading",
+        "predicted": "readings",
+        "similarity": 0.6557270288467407,
+        "correct": false
+      },
+      {
+        "analogy": "going - go + come = coming",
+        "predicted": "gone",
+        "similarity": 0.5733372569084167,
+        "correct": false
+      },
+      {
+        "analogy": "taking - take + give = giving",
+        "predicted": "giving",
+        "similarity": 0.6404289603233337,
+        "correct": true
+      },
+      {
+        "analogy": "bigger - big + small = smaller",
+        "predicted": "large",
+        "similarity": 0.6438319087028503,
+        "correct": false
+      },
+      {
+        "analogy": "better - good + bad = worse",
+        "predicted": "worse",
+        "similarity": 0.6440186500549316,
+        "correct": true
+      },
+      {
+        "analogy": "faster - fast + slow = slower",
+        "predicted": "slower",
+        "similarity": 0.7135863900184631,
+        "correct": true
+      },
+      {
+        "analogy": "stronger - strong + weak = weaker",
+        "predicted": "weaker",
+        "similarity": 0.7252281308174133,
+        "correct": true
+      },
+      {
+        "analogy": "longer - long + short = shorter",
+        "predicted": "shorter",
+        "similarity": 0.550737738609314,
+        "correct": true
+      },
+      {
+        "analogy": "older - old + young = younger",
+        "predicted": "younger",
+        "similarity": 0.6303864121437073,
+        "correct": true
+      },
+      {
+        "analogy": "hot - cold + big = small",
+        "predicted": "charts",
+        "similarity": 0.609312117099762,
+        "correct": false
+      },
+      {
+        "analogy": "good - bad + big = small",
+        "predicted": "bb",
+        "similarity": 0.5230080485343933,
+        "correct": false
+      },
+      {
+        "analogy": "happy - sad + fast = slow",
+        "predicted": "quick",
+        "similarity": 0.6561050415039062,
+        "correct": false
+      },
+      {
+        "analogy": "up - down + left = right",
+        "predicted": "right",
+        "similarity": 0.6366434693336487,
+        "correct": true
+      },
+      {
+        "analogy": "man - woman + boy = girl",
+        "predicted": "nintendo",
+        "similarity": 0.6138359904289246,
+        "correct": false
+      },
+      {
+        "analogy": "day - night + morning = evening",
+        "predicted": "feast",
+        "similarity": 0.6693009734153748,
+        "correct": false
+      },
+      {
+        "analogy": "love - hate + friend = enemy",
+        "predicted": "uncle",
+        "similarity": 0.7015945315361023,
+        "correct": false
+      },
+      {
+        "analogy": "rich - poor + healthy = sick",
+        "predicted": "flavoured",
+        "similarity": 0.6297875642776489,
+        "correct": false
+      },
+      {
+        "analogy": "open - closed + start = stop",
+        "predicted": "opening",
+        "similarity": 0.5199928283691406,
+        "correct": false
+      },
+      {
+        "analogy": "english - england + france = french",
+        "predicted": "french",
+        "similarity": 0.7637585997581482,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + germany = german",
+        "predicted": "german",
+        "similarity": 0.7214877009391785,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + spain = spanish",
+        "predicted": "spanish",
+        "similarity": 0.8013521432876587,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + china = chinese",
+        "predicted": "chinese",
+        "similarity": 0.6380155086517334,
+        "correct": true
+      },
+      {
+        "analogy": "english - england + japan = japanese",
+        "predicted": "japanese",
+        "similarity": 0.7289955019950867,
+        "correct": true
+      },
+      {
+        "analogy": "dollar - america + japan = yen",
+        "predicted": "peso",
+        "similarity": 0.6495213508605957,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + china = yuan",
+        "predicted": "peso",
+        "similarity": 0.6085532307624817,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + europe = euro",
+        "predicted": "pound",
+        "similarity": 0.6950526833534241,
+        "correct": false
+      },
+      {
+        "analogy": "dollar - america + england = pound",
+        "predicted": "pound",
+        "similarity": 0.6579796671867371,
+        "correct": true
+      },
+      {
+        "analogy": "cpu - computer + engine = car",
+        "predicted": "engines",
+        "similarity": 0.7196620106697083,
+        "correct": false
+      },
+      {
+        "analogy": "wheel - car + wing = airplane",
+        "predicted": "rear",
+        "similarity": 0.610962450504303,
+        "correct": false
+      },
+      {
+        "analogy": "keyboard - computer + screen = television",
+        "predicted": "buttons",
+        "similarity": 0.7032710313796997,
+        "correct": false
+      },
+      {
+        "analogy": "finger - hand + toe = foot",
+        "predicted": "hollow",
+        "similarity": 0.6083306670188904,
+        "correct": false
+      },
+      {
+        "analogy": "door - house + window = room",
+        "predicted": "backwards",
+        "similarity": 0.6956000328063965,
+        "correct": false
+      },
+      {
+        "analogy": "page - book + scene = movie",
+        "predicted": "garage",
+        "similarity": 0.5732001066207886,
+        "correct": false
+      },
+      {
+        "analogy": "leaf - tree + petal = flower",
+        "predicted": "fried",
+        "similarity": 0.6243560910224915,
+        "correct": false
+      },
+      {
+        "analogy": "doctor - hospital + teacher = school",
+        "predicted": "genius",
+        "similarity": 0.6575760245323181,
+        "correct": false
+      },
+      {
+        "analogy": "chef - kitchen + pilot = cockpit",
+        "predicted": "navigator",
+        "similarity": 0.7067569494247437,
+        "correct": false
+      },
+      {
+        "analogy": "judge - court + priest = church",
+        "predicted": "clergyman",
+        "similarity": 0.6189005374908447,
+        "correct": false
+      },
+      {
+        "analogy": "soldier - army + sailor = navy",
+        "predicted": "hara",
+        "similarity": 0.6978784799575806,
+        "correct": false
+      },
+      {
+        "analogy": "actor - stage + player = field",
+        "predicted": "actress",
+        "similarity": 0.7480897903442383,
+        "correct": false
+      },
+      {
+        "analogy": "librarian - library + banker = bank",
+        "predicted": "evi",
+        "similarity": 0.7115175724029541,
+        "correct": false
+      },
+      {
+        "analogy": "atom - molecule + cell = organism",
+        "predicted": "nucleus",
+        "similarity": 0.6659547090530396,
+        "correct": false
+      },
+      {
+        "analogy": "physics - einstein + biology = darwin",
+        "predicted": "biochemistry",
+        "similarity": 0.7609045505523682,
+        "correct": false
+      },
+      {
+        "analogy": "sun - solar + earth = lunar",
+        "predicted": "stars",
+        "similarity": 0.5965593457221985,
+        "correct": false
+      },
+      {
+        "analogy": "hydrogen - water + carbon = diamond",
+        "predicted": "nitrogen",
+        "similarity": 0.7690050005912781,
+        "correct": false
+      },
+      {
+        "analogy": "went - go + ate = eat",
+        "predicted": "had",
+        "similarity": 0.6157006025314331,
+        "correct": false
+      },
+      {
+        "analogy": "saw - see + heard = hear",
+        "predicted": "surprised",
+        "similarity": 0.6265546679496765,
+        "correct": false
+      },
+      {
+        "analogy": "spoke - speak + wrote = write",
+        "predicted": "memoirs",
+        "similarity": 0.6478195190429688,
+        "correct": false
+      },
+      {
+        "analogy": "drove - drive + flew = fly",
+        "predicted": "landed",
+        "similarity": 0.6629273891448975,
+        "correct": false
+      },
+      {
+        "analogy": "bought - buy + sold = sell",
+        "predicted": "purchased",
+        "similarity": 0.738551914691925,
+        "correct": false
+      },
+      {
+        "analogy": "taught - teach + learned = learn",
+        "predicted": "studied",
+        "similarity": 0.694138765335083,
+        "correct": false
+      },
+      {
+        "analogy": "bank - money + river = water",
+        "predicted": "canal",
+        "similarity": 0.7621936202049255,
+        "correct": false
+      },
+      {
+        "analogy": "bat - baseball + bird = wing",
+        "predicted": "lizard",
+        "similarity": 0.5922294855117798,
+        "correct": false
+      },
+      {
+        "analogy": "mouse - computer + rat = animal",
+        "predicted": "lemur",
+        "similarity": 0.7427598237991333,
+        "correct": false
+      },
+      {
+        "analogy": "light - sun + heavy = stone",
+        "predicted": "ammunition",
+        "similarity": 0.631030261516571,
+        "correct": false
+      },
+      {
+        "analogy": "play - theater + game = sport",
+        "predicted": "games",
+        "similarity": 0.710640013217926,
+        "correct": false
+      }
+    ],
+    "similarity_results": [
+      {
+        "pair": [
+          "king",
+          "queen"
+        ],
+        "human_score": 8.17,
+        "model_score": 0.6458148956298828
+      },
+      {
+        "pair": [
+          "king",
+          "rook"
+        ],
+        "human_score": 5.92,
+        "model_score": 0.4494604766368866
+      },
+      {
+        "pair": [
+          "king",
+          "crown"
+        ],
+        "human_score": 7.1,
+        "model_score": 0.6041698455810547
+      },
+      {
+        "pair": [
+          "queen",
+          "princess"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.662059485912323
+      },
+      {
+        "pair": [
+          "brother",
+          "sister"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.606162965297699
+      },
+      {
+        "pair": [
+          "father",
+          "mother"
+        ],
+        "human_score": 8.0,
+        "model_score": 0.8576158285140991
+      },
+      {
+        "pair": [
+          "husband",
+          "wife"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.7943167686462402
+      },
+      {
+        "pair": [
+          "boy",
+          "girl"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.7976218461990356
+      },
+      {
+        "pair": [
+          "man",
+          "woman"
+        ],
+        "human_score": 7.83,
+        "model_score": 0.7130715250968933
+      },
+      {
+        "pair": [
+          "dog",
+          "cat"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.632331371307373
+      },
+      {
+        "pair": [
+          "dog",
+          "animal"
+        ],
+        "human_score": 6.58,
+        "model_score": 0.3812558352947235
+      },
+      {
+        "pair": [
+          "cat",
+          "animal"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.4965623915195465
+      },
+      {
+        "pair": [
+          "bird",
+          "eagle"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.5702022910118103
+      },
+      {
+        "pair": [
+          "horse",
+          "mare"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.4486512243747711
+      },
+      {
+        "pair": [
+          "computer",
+          "keyboard"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.598527193069458
+      },
+      {
+        "pair": [
+          "computer",
+          "software"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.7371193766593933
+      },
+      {
+        "pair": [
+          "computer",
+          "hardware"
+        ],
+        "human_score": 7.08,
+        "model_score": 0.752295732498169
+      },
+      {
+        "pair": [
+          "computer",
+          "laptop"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.7323570847511292
+      },
+      {
+        "pair": [
+          "software",
+          "program"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.599979043006897
+      },
+      {
+        "pair": [
+          "phone",
+          "device"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.6656726002693176
+      },
+      {
+        "pair": [
+          "university",
+          "college"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.764140248298645
+      },
+      {
+        "pair": [
+          "university",
+          "professor"
+        ],
+        "human_score": 6.08,
+        "model_score": 0.7632803916931152
+      },
+      {
+        "pair": [
+          "student",
+          "professor"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.6534493565559387
+      },
+      {
+        "pair": [
+          "school",
+          "college"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.8030961155891418
+      },
+      {
+        "pair": [
+          "teacher",
+          "student"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.7259204983711243
+      },
+      {
+        "pair": [
+          "country",
+          "state"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.553835391998291
+      },
+      {
+        "pair": [
+          "city",
+          "town"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.8111721873283386
+      },
+      {
+        "pair": [
+          "river",
+          "lake"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.7253193855285645
+      },
+      {
+        "pair": [
+          "mountain",
+          "hill"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.5216427445411682
+      },
+      {
+        "pair": [
+          "ocean",
+          "sea"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.6929177641868591
+      },
+      {
+        "pair": [
+          "food",
+          "fruit"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.6805116534233093
+      },
+      {
+        "pair": [
+          "bread",
+          "butter"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.6630722284317017
+      },
+      {
+        "pair": [
+          "car",
+          "engine"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.6068021059036255
+      },
+      {
+        "pair": [
+          "airplane",
+          "airport"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.55532306432724
+      },
+      {
+        "pair": [
+          "football",
+          "soccer"
+        ],
+        "human_score": 9.0,
+        "model_score": 0.825134813785553
+      }
+    ]
+  },
+  "Chinese": {
+    "vocab_size": 2237325,
+    "embedding_dim": 100,
+    "similarity_correlation": 0.4144647092734831,
+    "analogy_accuracy": 0.3269230769230769,
+    "analogy_results": [
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "德国",
+        "expected": "柏林",
+        "predicted": "柏林",
+        "similarity": 0.8473239541053772,
+        "correct": true
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "日本",
+        "expected": "东京",
+        "predicted": "東京",
+        "similarity": 0.7955523133277893,
+        "correct": false
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "中国",
+        "expected": "北京",
+        "predicted": "北京",
+        "similarity": 0.6882346272468567,
+        "correct": true
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "俄罗斯",
+        "expected": "莫斯科",
+        "predicted": "莫斯科",
+        "similarity": 0.853915810585022,
+        "correct": true
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "西班牙",
+        "expected": "马德里",
+        "predicted": "里斯本",
+        "similarity": 0.7585784792900085,
+        "correct": false
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "意大利",
+        "expected": "罗马",
+        "predicted": "米蘭",
+        "similarity": 0.7483183145523071,
+        "correct": false
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "英国",
+        "expected": "伦敦",
+        "predicted": "倫敦",
+        "similarity": 0.7847706079483032,
+        "correct": false
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "韩国",
+        "expected": "首尔",
+        "predicted": "釜山",
+        "similarity": 0.7637785077095032,
+        "correct": false
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "泰国",
+        "expected": "曼谷",
+        "predicted": "曼谷",
+        "similarity": 0.8383743762969971,
+        "correct": true
+      },
+      {
+        "a": "巴黎",
+        "b": "法国",
+        "c": "越南",
+        "expected": "河内",
+        "predicted": "胡志明市",
+        "similarity": 0.7675137519836426,
+        "correct": false
+      },
+      {
+        "a": "广州",
+        "b": "广东",
+        "c": "江苏",
+        "expected": "南京",
+        "predicted": "苏州",
+        "similarity": 0.8497608304023743,
+        "correct": false
+      },
+      {
+        "a": "广州",
+        "b": "广东",
+        "c": "浙江",
+        "expected": "杭州",
+        "predicted": "杭州",
+        "similarity": 0.8562153577804565,
+        "correct": true
+      },
+      {
+        "a": "广州",
+        "b": "广东",
+        "c": "四川",
+        "expected": "成都",
+        "predicted": "成都",
+        "similarity": 0.8556832075119019,
+        "correct": true
+      },
+      {
+        "a": "广州",
+        "b": "广东",
+        "c": "湖北",
+        "expected": "武汉",
+        "predicted": "成都",
+        "similarity": 0.7829781770706177,
+        "correct": false
+      },
+      {
+        "a": "广州",
+        "b": "广东",
+        "c": "山东",
+        "expected": "济南",
+        "predicted": "济南",
+        "similarity": 0.8955193161964417,
+        "correct": true
+      },
+      {
+        "a": "广州",
+        "b": "广东",
+        "c": "福建",
+        "expected": "福州",
+        "predicted": "福州",
+        "similarity": 0.850225567817688,
+        "correct": true
+      },
+      {
+        "a": "国王",
+        "b": "男人",
+        "c": "女人",
+        "expected": "王后",
+        "predicted": "摄政",
+        "similarity": 0.8093974590301514,
+        "correct": false
+      },
+      {
+        "a": "国王",
+        "b": "王子",
+        "c": "公主",
+        "expected": "王后",
+        "predicted": "王后",
+        "similarity": 0.7228630185127258,
+        "correct": true
+      },
+      {
+        "a": "王子",
+        "b": "男孩",
+        "c": "女孩",
+        "expected": "公主",
+        "predicted": "公主",
+        "similarity": 0.662814736366272,
+        "correct": true
+      },
+      {
+        "a": "国王",
+        "b": "丈夫",
+        "c": "妻子",
+        "expected": "王后",
+        "predicted": "王阿尔",
+        "similarity": 0.8184626698493958,
+        "correct": false
+      },
+      {
+        "a": "兄弟",
+        "b": "儿子",
+        "c": "女儿",
+        "expected": "姐妹",
+        "predicted": "姐弟",
+        "similarity": 0.7547025680541992,
+        "correct": false
+      },
+      {
+        "a": "热",
+        "b": "冷",
+        "c": "大",
+        "expected": "小",
+        "predicted": "对大",
+        "similarity": 0.610166609287262,
+        "correct": false
+      },
+      {
+        "a": "好",
+        "b": "坏",
+        "c": "快",
+        "expected": "慢",
+        "predicted": "慢",
+        "similarity": 0.5968440771102905,
+        "correct": true
+      },
+      {
+        "a": "快乐",
+        "b": "悲伤",
+        "c": "富裕",
+        "expected": "贫穷",
+        "predicted": "家境",
+        "similarity": 0.6237322688102722,
+        "correct": false
+      },
+      {
+        "a": "上",
+        "b": "下",
+        "c": "左",
+        "expected": "右",
+        "predicted": "右",
+        "similarity": 0.7586869597434998,
+        "correct": true
+      },
+      {
+        "a": "男人",
+        "b": "女人",
+        "c": "男孩",
+        "expected": "女孩",
+        "predicted": "女孩",
+        "similarity": 0.7651195526123047,
+        "correct": true
+      },
+      {
+        "a": "白天",
+        "b": "黑夜",
+        "c": "春天",
+        "expected": "秋天",
+        "predicted": "冬天",
+        "similarity": 0.6968205571174622,
+        "correct": false
+      },
+      {
+        "a": "成功",
+        "b": "失败",
+        "c": "开始",
+        "expected": "结束",
+        "predicted": "首度",
+        "similarity": 0.6475625038146973,
+        "correct": false
+      },
+      {
+        "a": "美丽",
+        "b": "丑陋",
+        "c": "聪明",
+        "expected": "愚蠢",
+        "predicted": "可爱",
+        "similarity": 0.7420175671577454,
+        "correct": false
+      },
+      {
+        "a": "说过",
+        "b": "说",
+        "c": "做过",
+        "expected": "做",
+        "predicted": "当过",
+        "similarity": 0.7240883111953735,
+        "correct": false
+      },
+      {
+        "a": "打开",
+        "b": "开",
+        "c": "关上",
+        "expected": "关",
+        "predicted": "撬开",
+        "similarity": 0.6994990706443787,
+        "correct": false
+      },
+      {
+        "a": "进来",
+        "b": "进",
+        "c": "出去",
+        "expected": "出",
+        "predicted": "聚到",
+        "similarity": 0.665684700012207,
+        "correct": false
+      },
+      {
+        "a": "医生",
+        "b": "医院",
+        "c": "老师",
+        "expected": "学校",
+        "predicted": "私家侦探",
+        "similarity": 0.6069225668907166,
+        "correct": false
+      },
+      {
+        "a": "厨师",
+        "b": "厨房",
+        "c": "演员",
+        "expected": "舞台",
+        "predicted": "电影演员",
+        "similarity": 0.7750963568687439,
+        "correct": false
+      },
+      {
+        "a": "法官",
+        "b": "法院",
+        "c": "牧师",
+        "expected": "教堂",
+        "predicted": "神父",
+        "similarity": 0.7019348740577698,
+        "correct": false
+      },
+      {
+        "a": "士兵",
+        "b": "军队",
+        "c": "水手",
+        "expected": "海军",
+        "predicted": "自亞利",
+        "similarity": 0.5778319835662842,
+        "correct": false
+      },
+      {
+        "a": "农民",
+        "b": "农田",
+        "c": "工人",
+        "expected": "工厂",
+        "predicted": "女工",
+        "similarity": 0.6702290773391724,
+        "correct": false
+      },
+      {
+        "a": "作家",
+        "b": "书房",
+        "c": "画家",
+        "expected": "画室",
+        "predicted": "畫家",
+        "similarity": 0.7705340385437012,
+        "correct": false
+      },
+      {
+        "a": "英语",
+        "b": "英国",
+        "c": "法国",
+        "expected": "法语",
+        "predicted": "法语",
+        "similarity": 0.8527178764343262,
+        "correct": true
+      },
+      {
+        "a": "英语",
+        "b": "英国",
+        "c": "德国",
+        "expected": "德语",
+        "predicted": "德语",
+        "similarity": 0.8413498401641846,
+        "correct": true
+      },
+      {
+        "a": "英语",
+        "b": "英国",
+        "c": "日本",
+        "expected": "日语",
+        "predicted": "野元昭嘉",
+        "similarity": 0.6556062698364258,
+        "correct": false
+      },
+      {
+        "a": "英语",
+        "b": "英国",
+        "c": "韩国",
+        "expected": "韩语",
+        "predicted": "韩语",
+        "similarity": 0.741525411605835,
+        "correct": true
+      },
+      {
+        "a": "英语",
+        "b": "英国",
+        "c": "俄罗斯",
+        "expected": "俄语",
+        "predicted": "俄语",
+        "similarity": 0.8283205628395081,
+        "correct": true
+      },
+      {
+        "a": "鲁迅",
+        "b": "呐喊",
+        "c": "老舍",
+        "expected": "骆驼祥子",
+        "predicted": "茅盾",
+        "similarity": 0.7817543745040894,
+        "correct": false
+      },
+      {
+        "a": "曹雪芹",
+        "b": "红楼梦",
+        "c": "吴承恩",
+        "expected": "西游记",
+        "predicted": "耐庵",
+        "similarity": 0.7211246490478516,
+        "correct": false
+      },
+      {
+        "a": "罗贯中",
+        "b": "三国演义",
+        "c": "施耐庵",
+        "expected": "水浒传",
+        "predicted": "卓吾",
+        "similarity": 0.7185102105140686,
+        "correct": false
+      },
+      {
+        "a": "莫言",
+        "b": "红高粱",
+        "c": "余华",
+        "expected": "活着",
+        "predicted": "汪晖",
+        "similarity": 0.7025834321975708,
+        "correct": false
+      },
+      {
+        "a": "车轮",
+        "b": "汽车",
+        "c": "机翼",
+        "expected": "飞机",
+        "predicted": "后掠角",
+        "similarity": 0.7553451657295227,
+        "correct": false
+      },
+      {
+        "a": "键盘",
+        "b": "电脑",
+        "c": "屏幕",
+        "expected": "电视",
+        "predicted": "音量控制",
+        "similarity": 0.7368000149726868,
+        "correct": false
+      },
+      {
+        "a": "手指",
+        "b": "手",
+        "c": "脚趾",
+        "expected": "脚",
+        "predicted": "脚趾甲",
+        "similarity": 0.7746936678886414,
+        "correct": false
+      },
+      {
+        "a": "门",
+        "b": "房子",
+        "c": "窗",
+        "expected": "房间",
+        "predicted": "锦支",
+        "similarity": 0.6590642929077148,
+        "correct": false
+      },
+      {
+        "a": "花瓣",
+        "b": "花",
+        "c": "叶",
+        "expected": "树",
+        "predicted": "叶片",
+        "similarity": 0.7579174637794495,
+        "correct": false
+      }
+    ],
+    "similarity_results": [
+      {
+        "pair": [
+          "国王",
+          "王后"
+        ],
+        "human_score": 8.17,
+        "model_score": 0.7337220311164856
+      },
+      {
+        "pair": [
+          "父亲",
+          "母亲"
+        ],
+        "human_score": 8.0,
+        "model_score": 0.9323082566261292
+      },
+      {
+        "pair": [
+          "丈夫",
+          "妻子"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.9381192922592163
+      },
+      {
+        "pair": [
+          "男孩",
+          "女孩"
+        ],
+        "human_score": 7.92,
+        "model_score": 0.8326402902603149
+      },
+      {
+        "pair": [
+          "男人",
+          "女人"
+        ],
+        "human_score": 7.83,
+        "model_score": 0.9136220812797546
+      },
+      {
+        "pair": [
+          "兄弟",
+          "姐妹"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.6268039345741272
+      },
+      {
+        "pair": [
+          "朋友",
+          "伙伴"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.6906384229660034
+      },
+      {
+        "pair": [
+          "婴儿",
+          "儿童"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.7723135948181152
+      },
+      {
+        "pair": [
+          "狗",
+          "猫"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.7198776602745056
+      },
+      {
+        "pair": [
+          "狗",
+          "动物"
+        ],
+        "human_score": 6.58,
+        "model_score": 0.5654577612876892
+      },
+      {
+        "pair": [
+          "猫",
+          "动物"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.7191584706306458
+      },
+      {
+        "pair": [
+          "鸟",
+          "鹰"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.7501578330993652
+      },
+      {
+        "pair": [
+          "马",
+          "牛"
+        ],
+        "human_score": 5.5,
+        "model_score": 0.47307470440864563
+      },
+      {
+        "pair": [
+          "老虎",
+          "狮子"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.47390663623809814
+      },
+      {
+        "pair": [
+          "计算机",
+          "键盘"
+        ],
+        "human_score": 6.17,
+        "model_score": 0.6130853891372681
+      },
+      {
+        "pair": [
+          "计算机",
+          "软件"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.8142631649971008
+      },
+      {
+        "pair": [
+          "计算机",
+          "硬件"
+        ],
+        "human_score": 7.08,
+        "model_score": 0.7739449739456177
+      },
+      {
+        "pair": [
+          "软件",
+          "程序"
+        ],
+        "human_score": 7.42,
+        "model_score": 0.628387987613678
+      },
+      {
+        "pair": [
+          "手机",
+          "设备"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.7291749715805054
+      },
+      {
+        "pair": [
+          "互联网",
+          "网络"
+        ],
+        "human_score": 9.0,
+        "model_score": 0.8049123287200928
+      },
+      {
+        "pair": [
+          "大学",
+          "学院"
+        ],
+        "human_score": 7.58,
+        "model_score": 0.8619866371154785
+      },
+      {
+        "pair": [
+          "大学",
+          "教授"
+        ],
+        "human_score": 6.08,
+        "model_score": 0.6056823134422302
+      },
+      {
+        "pair": [
+          "学生",
+          "教授"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.4291068911552429
+      },
+      {
+        "pair": [
+          "学校",
+          "学院"
+        ],
+        "human_score": 6.92,
+        "model_score": 0.815150797367096
+      },
+      {
+        "pair": [
+          "老师",
+          "学生"
+        ],
+        "human_score": 6.83,
+        "model_score": 0.781970202922821
+      },
+      {
+        "pair": [
+          "学习",
+          "研究"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.5416519641876221
+      },
+      {
+        "pair": [
+          "国家",
+          "民族"
+        ],
+        "human_score": 5.5,
+        "model_score": 0.519765317440033
+      },
+      {
+        "pair": [
+          "城市",
+          "城镇"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.4688156545162201
+      },
+      {
+        "pair": [
+          "河流",
+          "湖泊"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.8534947037696838
+      },
+      {
+        "pair": [
+          "山",
+          "山峰"
+        ],
+        "human_score": 8.5,
+        "model_score": 0.6120133996009827
+      },
+      {
+        "pair": [
+          "海洋",
+          "大海"
+        ],
+        "human_score": 8.08,
+        "model_score": 0.6596010327339172
+      },
+      {
+        "pair": [
+          "森林",
+          "树林"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.512169361114502
+      },
+      {
+        "pair": [
+          "食物",
+          "水果"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.6990407109260559
+      },
+      {
+        "pair": [
+          "面包",
+          "牛奶"
+        ],
+        "human_score": 5.0,
+        "model_score": 0.7010761499404907
+      },
+      {
+        "pair": [
+          "米饭",
+          "面条"
+        ],
+        "human_score": 7.5,
+        "model_score": 0.7520177364349365
+      },
+      {
+        "pair": [
+          "汽车",
+          "发动机"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.642363429069519
+      },
+      {
+        "pair": [
+          "飞机",
+          "机场"
+        ],
+        "human_score": 6.42,
+        "model_score": 0.7358096241950989
+      },
+      {
+        "pair": [
+          "火车",
+          "铁路"
+        ],
+        "human_score": 7.0,
+        "model_score": 0.6819266080856323
+      },
+      {
+        "pair": [
+          "足球",
+          "篮球"
+        ],
+        "human_score": 6.5,
+        "model_score": 0.723317563533783
+      },
+      {
+        "pair": [
+          "跑步",
+          "运动"
+        ],
+        "human_score": 6.0,
+        "model_score": 0.49010562896728516
+      }
+    ]
+  }
+}

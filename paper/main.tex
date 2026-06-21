@@ -1,0 +1,35 @@
+% Word2Vec 实验论文主文件
+% Overleaf 编译器设置为 XeLaTeX 即可
+\documentclass[a4paper,12pt]{ctexbook}
+
+% 宏包
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{amssymb}  % 提供 \checkmark
+\usepackage{geometry}
+\usepackage{float}
+
+% 页面设置
+\geometry{left=3cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+
+% 图片路径 —— 上传图片后改为图片所在文件夹
+\graphicspath{{figures/}}
+
+% hyperref 放在最后加载
+\usepackage[hidelinks]{hyperref}
+
+\title{基于多种实现方案的 Word2Vec 模型实验研究}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+% 引入各章节
+\input{chapter4}
+
+\end{document}

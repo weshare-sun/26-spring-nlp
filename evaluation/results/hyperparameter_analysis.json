@@ -1,0 +1,65 @@
+{
+  "embedding_dim": [
+    {
+      "dim": 50,
+      "similarity_correlation": 0.471,
+      "analogy_accuracy": 0.2208,
+      "train_time": 9.2,
+      "vocab_size": 36280
+    },
+    {
+      "dim": 100,
+      "similarity_correlation": 0.4352,
+      "analogy_accuracy": 0.2338,
+      "train_time": 9.9,
+      "vocab_size": 36280
+    },
+    {
+      "dim": 200,
+      "similarity_correlation": 0.4515,
+      "analogy_accuracy": 0.2597,
+      "train_time": 13.2,
+      "vocab_size": 36280
+    }
+  ],
+  "window_size": [
+    {
+      "window": 3,
+      "similarity_correlation": 0.5148,
+      "analogy_accuracy": 0.2208,
+      "train_time": 8.0
+    },
+    {
+      "window": 5,
+      "similarity_correlation": 0.515,
+      "analogy_accuracy": 0.2338,
+      "train_time": 9.9
+    },
+    {
+      "window": 10,
+      "similarity_correlation": 0.4266,
+      "analogy_accuracy": 0.2468,
+      "train_time": 16.0
+    }
+  ],
+  "negative_sampling": [
+    {
+      "negative": 3,
+      "similarity_correlation": 0.4947,
+      "analogy_accuracy": 0.2727,
+      "train_time": 8.1
+    },
+    {
+      "negative": 5,
+      "similarity_correlation": 0.4807,
+      "analogy_accuracy": 0.2078,
+      "train_time": 10.0
+    },
+    {
+      "negative": 10,
+      "similarity_correlation": 0.4512,
+      "analogy_accuracy": 0.2338,
+      "train_time": 16.4
+    }
+  ]
+}

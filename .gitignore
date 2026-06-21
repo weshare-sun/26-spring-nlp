@@ -1,0 +1,31 @@
+# 大数据文件（脚本自动下载）
+data/text8
+data/zhwiki_raw.txt
+data/zhwiki_raw_10pct.txt
+data/zhwiki_seg*.txt
+data/zhwiki-latest-pages-articles.xml.bz2
+data/zhwiki.txt
+data/chinese_corpus.txt
+
+# 中文模型产物（可选实验）
+chinese_output/
+chinese_wiki_output/
+chinese_wiki_full_output/
+
+# 大模型文件
+*/output/*.bin
+*/output/*.bin.*.npy
+torch_version/output/checkpoint.pt
+
+# 临时/旧文件
+chinese_full_train.log
+chinese_train.py
+experiment_compare.py
+evaluation/results.zip
+paper.zip
+
+# 开发工具
+.claude/
+__pycache__/
+*.pyc
+*.pyo
