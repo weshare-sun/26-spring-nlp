@@ -17,12 +17,15 @@ chinese_wiki_full_output/
 */output/*.bin.*.npy
 torch_version/output/checkpoint.pt
 
+# 论文（走 Overleaf 提交，不进代码仓库）
+paper/
+paper.zip
+
 # 临时/旧文件
 chinese_full_train.log
 chinese_train.py
 experiment_compare.py
 evaluation/results.zip
-paper.zip
 
 # 开发工具
 .claude/
